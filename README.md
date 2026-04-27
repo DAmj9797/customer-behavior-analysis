@@ -2,6 +2,14 @@
 
 ---
 
+## 🚀 Key Highlights
+
+- Analyzed **3,900+ customer records with 18 features**
+- Performed **customer segmentation (behavior-based)**
+- Identified **high-value and repeat customers**
+- Analyzed **purchase frequency and spending patterns**
+- Generated insights for **targeted marketing & revenue growth**
+
 ## 📌 Overview
 
 This project analyzes customer shopping behavior to uncover patterns in purchasing, segmentation, and revenue generation.
